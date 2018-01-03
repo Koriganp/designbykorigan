@@ -68,7 +68,7 @@
 									<a class="nav-link text-dark font-weight-bold" href="#what-we-do">What We Do</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link text-dark font-weight-bold" href="#featured-work">Featured Work</a>
+									<a class="nav-link text-dark font-weight-bold" href="#featured-work">Our Work</a>
 								</li>
 								<li class="nav-item">
 									<a class="nav-link text-dark font-weight-bold" href="#the-process">About</a>
@@ -108,7 +108,15 @@
 				<!-- Featured Work -->
 
 				<section id="featured-work">
-
+					<h4 class="h2 section-heading-white">OUR WORK</h4>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-5 crowdvibe2" id="crowdvide-test">
+								<p class="h2" id="project-description-title-left">ReportABQ</p>
+								<p id=""
+							</div>
+						</div>
+					</div>
 				</section>
 
 				<!-- About -->
