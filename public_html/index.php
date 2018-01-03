@@ -87,7 +87,7 @@
 			<!-- Footer -->
 
 			<footer class="fixed-bottom bg-light">
-				<p class="text-center text-dark">&copy;2018 Korigan Payne</p>
+				<p class="text-center text-dark font-weight-bold align-middle">&copy;2018 Korigan Payne</p>
 			</footer>
 
 	</body>
