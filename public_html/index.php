@@ -54,6 +54,9 @@
 
 		<body class="sfooter">
 		<div class="sfooter-content">
+
+			<!-- Nav Bar -->
+
 			<header>
 				<nav id="up" class="navbar navbar-default navbar-expand-md navbar-light bg-light">
 					<a class="navbar-brand" href="#">DesignByKorigan.com</a>
@@ -75,6 +78,7 @@
 					</div>
 				</nav>
 			</header>
+
 		</div>
 	</body>
 </html>

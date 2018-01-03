@@ -3,13 +3,14 @@ body {
 }
 
 h1 {
-	font-family: 'Shadows Into Light', cursive;
-}
-
-li {
 	font-family: 'Anton', sans-serif;
 }
 
-p {
+li {
 	font-family: 'Poiret One', cursive;
 }
+
+footer {
+	font-family: 'Shadows Into Light', cursive;
+}
+
