@@ -98,7 +98,7 @@
 						<div class="row">
 							<div class="col-md-6">
 								<p id="about-text">We develop software and web sites with <em>your</em> goals in mind: <strong>to increase your business</strong>.</p>
-								<p id="about-subtext">-- The software we develop helps to grow businesses and automates time consuming tasks and our web design is eye-catching and builds a better online presence.</p>
+								<p id="about-subtext">-- The software we develop helps to grow businesses and automates time consuming tasks. Our web design is eye-catching and helps to build a better online presence.</p>
 							</div>
 							<div class="col-md-6"></div>
 						</div>
