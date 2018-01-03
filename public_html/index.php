@@ -58,20 +58,20 @@
 
 			<header>
 				<nav id="up" class="navbar navbar-default navbar-expand-md navbar-light bg-light">
-					<a class="navbar-brand" href="#">DesignByKorigan.com</a>
+					<a class="navbar-brand text-dark font-weight-bold" href="#">DesignByKorigan.com</a>
 					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
 					</button>
 					<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 						<ul class="navbar-nav ml-auto">
 							<li class="nav-item">
-								<a class="nav-link" href="https://designbykorigan.com">Home</a>
+								<a class="nav-link text-dark font-weight-bold" href="https://designbykorigan.com">Home</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="https://koriganpayne.com" target="_blank">Personal</a>
+								<a class="nav-link text-dark font-weight-bold" href="https://koriganpayne.com" target="_blank">Personal</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Contact</a>
+								<a class="nav-link text-dark font-weight-bold" href="#">Contact</a>
 							</li>
 						</ul>
 					</div>
@@ -87,7 +87,7 @@
 			<!-- Footer -->
 
 			<footer class="fixed-bottom bg-light">
-				<p class="text-center text-dark font-weight-bold align-middle">&copy;2018 Korigan Payne</p>
+				<p class="text-center text-dark font-weight-bold align-middle">&copy;2018 <a class="text-dark font-weight-bold" href="https://koriganpayne.com" target="_blank">Korigan Payne</a></p>
 			</footer>
 
 	</body>
