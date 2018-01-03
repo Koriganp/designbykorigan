@@ -52,8 +52,7 @@
 
 	<!-- Page Content -->
 
-		<body class="sfooter">
-		<div class="sfooter-content">
+		<body>
 
 			<!-- Nav Bar -->
 
@@ -79,6 +78,17 @@
 				</nav>
 			</header>
 
-		</div>
+			<!-- Main Content -->
+
+			<main>
+
+			</main>
+
+			<!-- Footer -->
+
+			<footer class="fixed-bottom bg-light">
+				<p class="text-center text-dark">&copy;2018 Korigan Payne</p>
+			</footer>
+
 	</body>
 </html>
