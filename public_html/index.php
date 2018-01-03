@@ -71,10 +71,10 @@
 									<a class="nav-link text-dark font-weight-bold" href="#featured-work">Featured Work</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link text-dark font-weight-bold" href="#the-process">About Us</a>
+									<a class="nav-link text-dark font-weight-bold" href="#the-process">About</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link text-dark font-weight-bold" href="#contact-us">Contact Us</a>
+									<a class="nav-link text-dark font-weight-bold" href="#contact-us">Contact</a>
 								</li>
 							</ul>
 						</div>
