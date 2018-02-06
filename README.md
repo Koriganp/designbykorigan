@@ -1,4 +1,4 @@
 # designbykorigan
-Business website
+Wordpress Business website
 
 https://designbykorigan.com
