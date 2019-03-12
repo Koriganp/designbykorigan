@@ -54,89 +54,40 @@
 
 		<body>
 
-			<!-- Navbar/Header -->
+			<!-- Nav Bar -->
 
 			<header>
-				<div class="jumbotron">
-					<nav class="navbar navbar-expand-lg navbar-light">
-						<button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-							<span class="navbar-toggler-icon"></span>
-						</button>
-						<div class="collapse navbar-collapse" id="navbarNav">
-							<ul class="navbar-nav ml-auto">
-								<li class="nav-item">
-									<a class="nav-link text-dark font-weight-bold" href="#what-we-do">What We Do</a>
-								</li>
-								<li class="nav-item">
-									<a class="nav-link text-dark font-weight-bold" href="#featured-work">Our Work</a>
-								</li>
-								<li class="nav-item">
-									<a class="nav-link text-dark font-weight-bold" href="#the-process">About</a>
-								</li>
-								<li class="nav-item">
-									<a class="nav-link text-dark font-weight-bold" href="#contact-us">Contact</a>
-								</li>
-							</ul>
-						</div>
-					</nav>
-					<p class="title">DESIGN</p>
-					<p class="h2">by</p>
-					<p class="title">KORIGAN</p>
-					<p class="subtext">Custom Software Development And Web Design</p>
-				</div>
+				<nav id="up" class="navbar navbar-default navbar-expand-md navbar-light bg-light">
+					<a class="navbar-brand text-dark font-weight-bold" href="#">DesignByKorigan.com</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item">
+								<a class="nav-link text-dark font-weight-bold" href="https://designbykorigan.com">Home</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link text-dark font-weight-bold" href="https://koriganpayne.com" target="_blank">Personal</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link text-dark font-weight-bold" href="#">Contact</a>
+							</li>
+						</ul>
+					</div>
+				</nav>
 			</header>
 
 			<!-- Main Content -->
 
 			<main>
 
-				<!-- What We Do -->
-
-				<section id="what-we-do">
-					<h4 class="h2 section-heading">WHAT WE DO</h4>
-					<div class="container">
-						<div class="row">
-							<div class="col-md-6">
-								<p id="about-text">We develop software and web sites with <em>your</em> goals in mind: <strong>to increase your business</strong>.</p>
-								<p id="about-subtext">-- The software we develop helps to grow businesses and automates time consuming tasks. Our web design is eye-catching and helps to build a better online presence.</p>
-							</div>
-							<div class="col-md-6"></div>
-						</div>
-					</div>
-				</section>
-
-				<!-- Featured Work -->
-
-				<section id="featured-work">
-					<h4 class="h2 section-heading-white">OUR WORK</h4>
-					<div class="container">
-						<div class="row">
-							<div class="col-md-5 crowdvibe2" id="crowdvide-test">
-								<p class="h2" id="project-description-title-left">ReportABQ</p>
-								<p id=""
-							</div>
-						</div>
-					</div>
-				</section>
-
-				<!-- About -->
-
-				<section id="the-process">
-
-				</section>
-
-				<!-- Contact -->
-
-				<section id="contact-us">
-
-				</section>
-
 			</main>
 
 			<!-- Footer -->
 
 			<footer class="fixed-bottom bg-light">
-				<p class="text-center text-dark font-weight-bold align-middle">&copy;2018 <a class="text-dark font-weight-bold" href="https://koriganpayne.com" target="_blank">Korigan Payne</a></p>
+				<p class="text-center text-dark font-weight-bold align-middle">&copy;2019 <a class="text-dark font-weight-bold" href="https://koriganpayne.com" target="_blank">Korigan Payne</a></p>
 			</footer>
 
 	</body>
