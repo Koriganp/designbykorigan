@@ -87,7 +87,7 @@
 			<!-- Footer -->
 
 			<footer class="fixed-bottom bg-light">
-				<p class="text-center text-dark font-weight-bold align-middle">&copy;2019 <a class="text-dark font-weight-bold" href="https://koriganpayne.com" target="_blank">Korigan Payne</a></p>
+				<p class="text-center text-dark font-weight-bold align-middle">&copy;2019 <a class="text-dark font-weight-bold" href="https://korigandesign.com" target="_blank">Korigan Design</a></p>
 			</footer>
 
 	</body>
